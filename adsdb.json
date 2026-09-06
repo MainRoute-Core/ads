@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "updated": "2026-09-06T00:00:00Z",
+
+  "settings": {
+    "enabled": true,
+    "defaultDuration": 10,
+    "defaultTimes": 6
+  },
+
+  "global": [
+    {
+      "id": "corepos-pro",
+      "name": "CorePOS Pro",
+      "desc": "Upgrade to CorePOS Pro for the full professional POS experience.",
+      "link": "https://MainRoute-Core.github.io/cp",
+      "logo": "assets/logos/corepos.svg",
+      "banner": "assets/banners/corepos-pro.svg",
+      "duration": 10,
+      "times": 6,
+      "status": "per",
+      "expire": null
+    },
+    {
+      "id": "paksigns",
+      "name": "PakSigns",
+      "desc": "Learn and test your knowledge of Pakistan traffic signs.",
+      "link": "https://GGCOkara.github.io/PakSigns",
+      "logo": "assets/logos/paksigns.svg",
+      "banner": "assets/banners/paksigns.svg",
+      "duration": 10,
+      "times": 6,
+      "status": "per",
+      "expire": null
+    },
+    {
+      "id": "colorpickup",
+      "name": "ColorPickUp",
+      "desc": "A simple and powerful color picking tool for modern web development.",
+      "link": "https://MainRoute-Core.github.io/ColorPickUp",
+      "logo": "assets/logos/colorpickup.svg",
+      "banner": "assets/banners/colorpickup.svg",
+      "duration": 10,
+      "times": 6,
+      "status": "per",
+      "expire": null
+    },
+    {
+      "id": "stylishselect",
+      "name": "StylishSelect",
+      "desc": "Create beautiful, customizable select controls for your web projects.",
+      "link": "https://MainRoute-Core.github.io/StylishSelect",
+      "logo": "assets/logos/stylishselect.svg",
+      "banner": "assets/banners/stylishselect.svg",
+      "duration": 10,
+      "times": 6,
+      "status": "per",
+      "expire": null
+    },
+    {
+      "id": "adaptive-tab-theme",
+      "name": "Adaptive Tab Theme",
+      "desc": "A Firefox add-on that adapts the browser tab bar theme to match the currently open website.",
+      "link": "https://addons.mozilla.org/en-US/addon/adaptive-tab-theme/",
+      "logo": "assets/logos/adaptive-tab-theme.svg",
+      "banner": "assets/banners/adaptive-tab-theme.svg",
+      "duration": 10,
+      "times": 6,
+      "status": "per",
+      "expire": null
+    }
+  ],
+
+  "apps": {
+    "corepos": {
+      "enabled": true,
+      "ads": [],
+      "placements": {
+        "main-header": [],
+        "sidebar": [],
+        "dashboard": []
+      }
+    },
+
+    "dexcode": {
+      "enabled": true,
+      "ads": [],
+      "placements": {}
+    }
+  }
+}
